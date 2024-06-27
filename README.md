@@ -1,4 +1,4 @@
-# Stunning 3D Portfolio Website
+# Stunning 3D Portfolio Website | ThreeJS & Framermotion
 
 ![screen-shot](https://i.imgur.com/JHgrRn6.png)
 
